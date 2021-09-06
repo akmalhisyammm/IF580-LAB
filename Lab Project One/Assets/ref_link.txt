@@ -1,0 +1,2 @@
+https://math.stackexchange.com/questions/141751/icosahedron-coordinates
+http://rbwhitaker.wikidot.com/index-and-vertex-buffers
